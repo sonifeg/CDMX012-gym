@@ -1,0 +1,23 @@
+{
+  "name": "lyft-web",
+  "version": "1.0.0",
+  "description": "gym-exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonifeg/CDMX012-gym.git"
+  },
+  "keywords": [
+    "gym"
+  ],
+  "author": "sonifeg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonifeg/CDMX012-gym/issues"
+  },
+  "homepage": "https://github.com/sonifeg/CDMX012-gym#readme"
+}
